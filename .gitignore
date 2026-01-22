@@ -23,11 +23,11 @@ Thumbs.db
 *~
 
 # Uploaded files (except defaults)
-public/profile_pictures/*
-!public/profile_pictures/default-profile.png
-public/item_photos/*
-!public/item_photos/default.jpg
-public/item_videos/*
+# public/profile_pictures/*
+# !public/profile_pictures/default-profile.png
+# public/item_photos/*
+# !public/item_photos/default.jpg
+# public/item_videos/*
 
 # Testing
 coverage/
